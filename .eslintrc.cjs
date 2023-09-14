@@ -16,5 +16,6 @@ module.exports = {
   plugins: ["react-refresh", "tailwindcss"],
   rules: {
     "react-refresh/only-export-components": "warn",
+    "react/prop-types": 0
   },
 };
